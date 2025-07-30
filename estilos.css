@@ -1,0 +1,21 @@
+
+body {
+    font-family: Georgia, serif;
+    background-color: #f8f8f8;
+    color: #333;
+    max-width: 800px;
+    margin: auto;
+    padding: 2em;
+    line-height: 1.6;
+}
+header, footer {
+    text-align: center;
+    margin-bottom: 2em;
+}
+h1, h2 {
+    color: #5A2A83;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+}
